@@ -1,1 +1,1 @@
-Code developed to Django for everyone specialization
+Code developed to The Django for everyone specialization
